@@ -1,0 +1,113 @@
+#div-form {
+	border: 1px solid black;
+	width: 200px;
+	height: 200px;
+   	padding: 7px;
+   	label {
+   		padding-top:1em;
+   	}
+}
+
+#btn {
+	margin-left: 9em;
+    margin-top: 2em;
+}
+
+
+
+#secondPage {
+border: 1px solid black;
+border-radius: 10px;
+margin: 15px auto;
+width: 500px;
+position: relative;
+box-shadow: 10px 10px 5px #888888;
+div {
+margin: 10px 0;
+text-align: center;
+}
+h1 {
+display:inline;
+}
+table, th, td {
+border-collapse: collapse;
+margin: 10px auto;
+border: 2px solid black;
+border-collapse: 0;
+border-radius: 5px;
+th, td {
+width: 50px;
+}
+
+}
+
+.fa {
+padding-left: 7px;
+}
+.fa:hover {
+cursor: pointer;
+}
+
+}
+
+
+#thirdPage {
+
+	width: 500px;
+	position: relative;
+	margin: 10px auto;
+	padding: 10px 10px;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px #888888;
+
+	div {
+		input {
+		margin: 2px auto;
+		}
+		.name-third {
+			margin-left: 0.7em;
+		}
+		.price-third{
+			margin-left: 1.1em;
+		}
+		#btn-third {
+			margin-left: 22.7em;
+		}
+	}
+	
+	label {
+		margin-left: 120px;
+	}
+
+}
+#fourPages {
+
+	width: 500px;
+	position: relative;
+	margin: 10px auto;
+	padding: 10px 10px;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px #888888;
+
+	div {
+		input {
+		margin: 2px auto;
+		}
+		.name-four {
+			margin-left: 0.7em;
+		}
+		.price-four{
+			margin-left: 1.1em;
+		}
+		#btn-four {
+			margin-left: 22.7em;
+		}
+	}
+	
+	label {
+		margin-left: 120px;
+	}
+
+}

@@ -1,0 +1,76 @@
+#div-form {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  padding: 7px; }
+  #div-form label {
+    padding-top: 1em; }
+
+#btn {
+  margin-left: 9em;
+  margin-top: 2em; }
+
+#secondPage {
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 15px auto;
+  width: 500px;
+  position: relative;
+  box-shadow: 10px 10px 5px #888888; }
+  #secondPage div {
+    margin: 10px 0;
+    text-align: center; }
+  #secondPage h1 {
+    display: inline; }
+  #secondPage table, #secondPage th, #secondPage td {
+    border-collapse: collapse;
+    margin: 10px auto;
+    border: 2px solid black;
+    border-collapse: 0;
+    border-radius: 5px; }
+    #secondPage table th, #secondPage table td, #secondPage th th, #secondPage th td, #secondPage td th, #secondPage td td {
+      width: 50px; }
+  #secondPage .fa {
+    padding-left: 7px; }
+  #secondPage .fa:hover {
+    cursor: pointer; }
+
+#thirdPage {
+  width: 500px;
+  position: relative;
+  margin: 10px auto;
+  padding: 10px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px #888888; }
+  #thirdPage div input {
+    margin: 2px auto; }
+  #thirdPage div .name-third {
+    margin-left: 0.7em; }
+  #thirdPage div .price-third {
+    margin-left: 1.1em; }
+  #thirdPage div #btn-third {
+    margin-left: 22.7em; }
+  #thirdPage label {
+    margin-left: 120px; }
+
+#fourPages {
+  width: 500px;
+  position: relative;
+  margin: 10px auto;
+  padding: 10px 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 10px 10px 5px #888888; }
+  #fourPages div input {
+    margin: 2px auto; }
+  #fourPages div .name-four {
+    margin-left: 0.7em; }
+  #fourPages div .price-four {
+    margin-left: 1.1em; }
+  #fourPages div #btn-four {
+    margin-left: 22.7em; }
+  #fourPages label {
+    margin-left: 120px; }
+
+/*# sourceMappingURL=index.css.map */
